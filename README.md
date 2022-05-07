@@ -3,4 +3,4 @@ this repo contains my first ever project.
 this project is about tic tak toe
 this is game
 this game is interasting
-this game is lovely
+this game are very very is lovely
